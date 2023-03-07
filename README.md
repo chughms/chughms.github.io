@@ -1,2 +1,2 @@
-# sikandarch7.github.io
+# chughms.github.io
 Personal Portfolio Website
